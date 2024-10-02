@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
 
           <p className="flex-1 flex justify-end font-light">
-            &copy; 2024 Focus. All rights reserved.
+            &copy; 2024 Axenexx. All rights reserved.
           </p>
         </div>
       </div>
