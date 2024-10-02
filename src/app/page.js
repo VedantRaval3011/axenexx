@@ -5,18 +5,19 @@ import Brands from "./components/Brands";
 import Features from "./components/Features";
 import Integrations from "./components/Integrations";
 import Testimonial from "./components/Testimonial";
+import Trial from "./components/Trial";
 
 export default function Home() {
   return (
     <>
-    <ReactLenis root>
-      <Hero />
-      <Brands />
-      <Features />
-      <Integrations />
-      <Testimonial />
-        
-    </ReactLenis>
-  </>
+      <ReactLenis root>
+        <Hero />
+        <Brands />
+        <Features />
+        <Integrations />
+        <Testimonial />
+        <Trial />
+      </ReactLenis>
+    </>
   );
 }
