@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Focus - Productivity Website",
+  title: "Axenexx - Productivity Website",
   description:
     "Crafted with Create Next App to boost your productivity instantly.",
 };
