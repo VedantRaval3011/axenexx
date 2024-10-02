@@ -4,8 +4,8 @@ import Link from "next/link";
 const Logo = () => {
   return (
     <Link href="/" className="relative w-[148px] h-[22px] flex">
-      <h1 className="uppercase font-bold">Axenexx .</h1>
-    </Link>
+      <Image src="/axenexx.png" fill alt="" className="object-contain"/>
+    </Link> 
   );
 };
 
